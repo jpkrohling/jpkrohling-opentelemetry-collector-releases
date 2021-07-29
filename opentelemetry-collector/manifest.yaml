@@ -1,0 +1,7 @@
+dist:
+  module: github.com/open-telemetry/opentelemetry-collector-distributions/core
+  name: opentelemetry-collector
+  description: OpenTelemetry Collector
+  version: 0.30.0
+  output_path: ./_build
+  otelcol_version: 0.30.0
